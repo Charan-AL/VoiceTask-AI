@@ -1,0 +1,65 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+*.env
+myjson.json
+*.pem
+*.key
+*.cert
+
+# Expo & Metro bundler
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+
+# Logs and debug output
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+error.txt
+success.txt
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Build and test outputs
+build/
+coverage/
+.nyc_output/
+*.tsbuildinfo
+
+# Mobile Native Builds
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.mobileprovision
+*.apk
+*.aab
+*.ipa
