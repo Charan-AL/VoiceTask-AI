@@ -27,9 +27,9 @@ An intelligent, production-ready mobile platform engineered to capture natural s
  ┌─────────────────────────────────────────────────────────────┐
  │                     Mobile Client (Expo)                    │
  │                                                             │
- │   [ 🎙️ Start Mic ] ──► [ Audio Metering Waveform ]          │
+ │   [ 🎙️ Start Mic ] ──► [ Audio Metering Waveform ]         │
  │                                  │                          │
- │                          [ ⏹️ Stop Mic ]                    │
+ │                          [ ⏹️ Stop Mic ]                   │
  │                                  │                          │
  │                   [ Multipart/Form-Data Payload ]           │
  └──────────────────────────────────┬──────────────────────────┘
